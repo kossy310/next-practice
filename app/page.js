@@ -6,7 +6,7 @@ export default function Home() {
   return (
     
     <main className={styles.main}>
-      <Header title="Headerです。" />
+      <Header title="Headerを修正。" />
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
